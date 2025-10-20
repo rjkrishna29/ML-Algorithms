@@ -1,1 +1,1 @@
-# AI_Lab
+# Machine Learning Algorithms
